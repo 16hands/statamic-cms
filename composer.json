@@ -1,6 +1,6 @@
 {
-    "name": "statamic/cms",
-    "description": "The Statamic CMS Core Package",
+    "name": "16hands/statamic-cms",
+    "description": "The Statamic CMS Core Package with TESTs",
     "keywords": [
         "statamic",
         "cms",
